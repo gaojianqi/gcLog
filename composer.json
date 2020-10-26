@@ -1,0 +1,14 @@
+{
+    "name": "administrator/gclog",
+    "description": "jingjibocai log"
+    "type": "library",
+    "authors": [
+        {
+            "name": "gaojianqi",
+            "email": "615817435@qq.com"
+        }
+    ],
+    "require": {
+	"php": ">=5.4.0"
+    }
+}
