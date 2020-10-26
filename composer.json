@@ -1,6 +1,6 @@
 {
     "name": "administrator/gclog",
-    "description": "jingjibocai log"
+    "description": "jingjibocai log",
     "type": "library",
     "authors": [
         {
